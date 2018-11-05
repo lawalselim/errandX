@@ -2,10 +2,16 @@
   "name": "errandx",
   "version": "1.0.0",
   "description": "Errand Apprication",
+  "repository": "https://github.com/uniosun/errandX",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "UniosunDSC",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.9"
+  }
 }
