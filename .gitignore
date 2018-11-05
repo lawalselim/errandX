@@ -1,1 +1,2 @@
-./errandX-be/node_modules
+# Dependency directory
+node_modules
